@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[cv](../files/cv.pdf)
+[Yiming_Li_cv.pdf](../files/cv.pdf)
 
 Education
 ======
