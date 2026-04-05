@@ -20,6 +20,9 @@ I develop reinforcement learning algorithms for sequential decision-making under
 - Focus: Studying online exploration-exploitation trade-offs, regret minimization, and convergence guarantees in stochastic routing problems, with applications to mixed-autonomy traffic networks.
 - Impact: Applications include online routing of autonomous vehicles in mixed-autonomy environments, real-time adaptive decision-making, and provably efficient online policy optimization in large-scale stochastic networks. 
 
+
+<img src="/images/road.jpg" width="500"/>
+
 ## Embodied AI
 I develop multi-agent reinforcement learning algorithms for embodied control in continuous physical environments. 
 - Focus: Studying cooperative multi-agent policy learning under partial observability, with model-based offline reinforcement learning to address data inefficiency in embodied locomotion tasks across MuJoCo benchmarks.
