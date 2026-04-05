@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Yiming Li"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Yiming Li"
+description              : &description "Yiming Li's personal academic website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url: "https://yiming-li-tj.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "blue.jpg"
   name             : "Yiming Li"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "she/her"  
+  bio              : "Ph.D. Student in Transportation Engineering at Tongji University. Research interests: Logistics Network Optimization and Reinforcement Learning."
+  location         : "Shanghai, China"
+  employer         : "Tongji University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2410792@tongji.edu.cn" 
 
   # Academic websites
   academia         : # URL
