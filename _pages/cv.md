@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[cv](../files/cv.pdf)
+
 Education
 ======
 * Ph.D in Transportation Engineering, Tongji University, 2030 (expected)
