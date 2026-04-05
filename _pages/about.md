@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Student in Transportation Engineering at Tongji University, advised by Prof. [Bai Yu](https://tjjt.tongji.edu.cn/info/2901/9468.htm) and Research Professor [Xiong Xi](https://xiong-xi.com/). I received my B.Sc. in Transportation Engineering from Tongji University in 2024.
+I am a Ph.D. Student in Transportation Engineering at Tongji University, advised by Prof. [Yu Bai](https://tjjt.tongji.edu.cn/info/2901/9468.htm) and Research Professor [Xi Xiong](https://xiong-xi.com/). I received my B.Sc. in Transportation Engineering from Tongji University in 2024.
 
 My research interests include Logistics Network Optimization, Reinforcement Learning, and Embodied AI.
 
